@@ -81,8 +81,7 @@
       </dmn:rule>
       <dmn:rule id="_0DCE4505-C3D7-405F-B175-3F7F82EDE092">
         <dmn:inputEntry id="_7A54DB1C-950C-4E8F-A95B-EDF336038B38">
-          <dmn:text>"speed"
-</dmn:text>
+          <dmn:text>"speed"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_1373114E-60BE-4C04-9735-E719E7809700">
           <dmn:text>&gt;= 30</dmn:text>
@@ -175,7 +174,7 @@
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_60812944-1992-4FBC-A2A1-A2BEFE23E4E4">
             <kie:width>50.0</kie:width>
-            <kie:width>100.0</kie:width>
+            <kie:width>268.0</kie:width>
             <kie:width>100.0</kie:width>
             <kie:width>100.0</kie:width>
             <kie:width>100.0</kie:width>
