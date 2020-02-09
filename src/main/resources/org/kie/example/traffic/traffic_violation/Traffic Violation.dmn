@@ -67,7 +67,7 @@
       <dmn:output id="_80A0A71C-F8B0-4A3B-A28A-4EC689AF9AD0" name="Points" typeRef="number"/>
       <dmn:rule id="_B75A85F0-A0D5-41C7-9F97-2F231EB8AE12">
         <dmn:inputEntry id="_1206045E-8FF2-4FE7-A7E5-5FABBBEDCB8D">
-          <dmn:text>speed</dmn:text>
+          <dmn:text>"speed"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_FDDCF960-F51B-4001-876C-58FFA306C373">
           <dmn:text>(10..30)</dmn:text>
@@ -81,7 +81,7 @@
       </dmn:rule>
       <dmn:rule id="_0DCE4505-C3D7-405F-B175-3F7F82EDE092">
         <dmn:inputEntry id="_7A54DB1C-950C-4E8F-A95B-EDF336038B38">
-          <dmn:text>speed
+          <dmn:text>"speed"
 </dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_1373114E-60BE-4C04-9735-E719E7809700">
@@ -97,7 +97,7 @@
       </dmn:rule>
       <dmn:rule id="_6DE6406A-E222-48B2-971B-C35D901773D9">
         <dmn:inputEntry id="_04B89A80-CC11-41AE-AAC9-A0C00F8CD7A5">
-          <dmn:text>parking</dmn:text>
+          <dmn:text>"parking"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_C15C77AD-8FE5-4EB6-A885-9D8E1DAF6A29">
           <dmn:text>-</dmn:text>
@@ -111,7 +111,7 @@
       </dmn:rule>
       <dmn:rule id="_34CA0D31-D47F-40F6-8B2E-FF2620638A93">
         <dmn:inputEntry id="_48F4A4F5-C7BB-4851-A914-A9D4E31F0E65">
-          <dmn:text>driving under the influence</dmn:text>
+          <dmn:text>"driving under the influence"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_8987C1AB-14AC-46E4-A8FF-C0647C04D3F8">
           <dmn:text>-</dmn:text>
