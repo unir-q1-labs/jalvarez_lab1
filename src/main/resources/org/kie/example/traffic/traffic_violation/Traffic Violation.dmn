@@ -48,7 +48,7 @@
   </dmn:itemDefinition>
   <dmn:decision id="_5D491949-B92D-4E46-A3F7-926DA1E68DBF" name="Fine">
     <dmn:extensionElements/>
-    <dmn:variable id="_F5BCC795-1763-493A-891D-7E7BA74A554C" name="Fine"/>
+    <dmn:variable id="_F5BCC795-1763-493A-891D-7E7BA74A554C" name="Fine" typeRef="tFine"/>
     <dmn:informationRequirement id="_D0761301-FAAB-48AE-9EDC-881579D2E361">
       <dmn:requiredInput href="#_D78244CF-AC64-4F00-B90A-CBFAFD97EEA1"/>
     </dmn:informationRequirement>
