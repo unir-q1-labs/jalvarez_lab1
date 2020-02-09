@@ -70,7 +70,7 @@
           <dmn:text>"speed"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_FDDCF960-F51B-4001-876C-58FFA306C373">
-          <dmn:text>10..30</dmn:text>
+          <dmn:text>(10..30)</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_67F7A660-E629-406C-B66F-E428D5094C17">
           <dmn:text>500</dmn:text>
@@ -85,7 +85,7 @@
 </dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_1373114E-60BE-4C04-9735-E719E7809700">
-          <dmn:text>&gt;=30</dmn:text>
+          <dmn:text>&gt;= 30</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_05068AC9-2F6D-4556-8837-B6738CDFDD18">
           <dmn:text>1000
